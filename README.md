@@ -1,5 +1,5 @@
 # Code-Relatedness-ACE
-This repository contains all codes for the simulations in Lyu &amp; Garrison (2022) paper in Behavior Genetics. 
+This repository contains all codes for the simulations in Lyu &amp; Garrison (2022) paper currently under review. 
 Note: We have already provided a integrated R package capable to replicate all simulations in this paper. The codes in this repo is just for review purpose. If you want to do your own simulated studies using the same simulation procedure, please check [ACEsimFit Vignette](https://cran.r-project.org/web/packages/ACEsimFit/vignettes/ACEsimFit.html)
 
 # Codes and data
